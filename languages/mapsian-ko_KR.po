@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.6.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ko_KR\n"
+
+#. Text in echo
+#: core/admin/setup-meta-maps.php:74
+msgid "Add"
+msgstr "추가"
+
+#. Text in function
+#: core/admin/setup-meta-maps.php:237
+msgid "Add Group"
+msgstr "그룹 추가"
+
+#. Text in echo
+#: includes/mapsian-general-settings.php:118
+msgid "Add Language"
+msgstr "언어 추가"
+
+#. Text in function
+#: core/admin/setup-custom-post.php:1
+msgid "Add new location"
+msgstr "신규 위치 추가"
+
+#. Text in function
+#: core/admin/setup-custom-post.php:1
+msgid "Add new map"
+msgstr "신규 맵 추가"
+
+#. Text in echo
+#: core/admin/setup-meta-maps.php:106
+msgid "Added Locations"
+msgstr "등록된 위치"
+
+#. Text in function
+#: core/admin/setup-meta-maps.php:237
+msgid "Added group list"
+msgstr "등록된 그룹"
+
+#. Text in function
+#: core/admin/setup-custom-post.php:1
+msgid "Address"
+msgstr "주소"
+
+#. Text in echo
+#: includes/mapsian-general-settings.php:40
+msgid ""
+"All maps will not appear If it's wrong or not correct, so please insert key "
+"correctly."
+msgstr ""
+"잘못 입력하시거나 부정확 하면 맵이 나타나지 않을 수 있으니 유의하시기 바랍니"
+"다."
+
+#. Text in function
+#: core/admin/setup-meta-locations.php:82
+msgid "Basic Information"
+msgstr "기본 정보"
+
+#. Text in function
+#: core/admin/setup-meta-locations.php:82
+msgid "Description"
+msgstr "설명"
+
+#. Text in function
+#: core/admin/setup-style.php:1
+msgid "Document"
+msgstr "문서"
+
+#. Text in function
+#: core/admin/setup-meta-maps.php:237
+msgid "General Settings"
+msgstr "기본 설정"
+
+#. Text in echo
+#: includes/mapsian-general-settings.php:37
+msgid "Google maps API Key"
+msgstr "구글맵 API 키"
+
+#. Text in echo
+#: includes/mapsian-general-settings.php:47
+msgid "Google maps Language setting"
+msgstr "구글맵 언어 설정"
+
+#. Text in function
+#: core/admin/setup-custom-post.php:1 core/admin/setup-style.php:1
+msgid "Groups"
+msgstr "그룹"
+
+#. Text in echo
+#: core/admin/setup-meta-maps.php:30
+msgid "Height"
+msgstr "높이"
+
+#. Text in echo
+#: includes/mapsian-general-settings.php:39
+msgid "If you have Google maps API key, insert this field."
+msgstr "구글맵 API 키를 가지고 있다면 입력하시기 바랍니다."
+
+#. Text in echo
+#: includes/mapsian-general-settings.php:117
+msgid "If you select 'Default', The map language will setting automatically."
+msgstr ""
+"Default 로 설정하시면 접속 지역의 언어에 맞게 맵 기본언어가 지동으로 설정 됩"
+"니다."
+
+#. Text in echo
+#: includes/mapsian-general-settings.php:117
+msgid "It makes map language by you selected."
+msgstr "선택하신 언어로 맵 기본언어가 설정 됩니다."
+
+#. Text in echo
+#: core/admin/setup-meta-locations.php:53
+msgid "Latitude"
+msgstr "위도"
+
+#. Text in function
+#: core/admin/setup-meta-maps.php:237
+msgid "List"
+msgstr "리스트"
+
+#. Text in function
+#: core/admin/setup-custom-post.php:1
+msgid "Locations"
+msgstr "위치"
+
+#. Text in function
+#: core/admin/setup-custom-post.php:1
+msgid "Locations/Groups"
+msgstr "위치/그룹"
+
+#. Text in echo
+#: core/admin/setup-meta-locations.php:55
+msgid "Longitude"
+msgstr "경도"
+
+#. Text in echo
+#: core/admin/setup-meta-maps.php:21
+msgid "Map size"
+msgstr "맵 사이즈"
+
+#. Text in function
+#: core/admin/setup-custom-post.php:1
+msgid "Maps"
+msgstr "맵"
+
+#. Text in echo
+#: includes/mapsian-general-settings.php:32
+msgid "Mapsian General settings"
+msgstr "맵시앙 기본설정"
+
+#. Text in echo
+#: includes/mapsian-map-view.php:101
+msgid "No locations found."
+msgstr "위치를 찾을 수 없습니다."
+
+#. Text in echo
+#: includes/mapsian-map-view.php:97
+msgid "Now loading"
+msgstr "로딩중입니다."
+
+#. Text in echo
+#: core/admin/setup-meta-maps.php:22
+msgid "Please insert measure unit.ex)'px','%','em' (Default : pixel)"
+msgstr "px,%,em 등 수치를 입력해 주세요.(기본:px)"
+
+#. Text in function
+#: core/admin/setup-custom-post.php:1
+msgid "Preview"
+msgstr "미리보기"
+
+#. Text in function
+#: core/admin/setup-meta-locations.php:82
+msgid "Preview google map"
+msgstr "구글맵 미리보기"
+
+#. Text in echo
+#: core/admin/setup-meta-maps.php:73
+msgid "Select Group"
+msgstr "그룹선택"
+
+#. Text in function
+#: core/admin/setup-style.php:1
+msgid "Setting"
+msgstr "설정"
+
+#. Text in function
+#: core/admin/setup-custom-post.php:1
+msgid "Shortcode"
+msgstr "숏코드"
+
+#. Text in function
+#: core/admin/setup-custom-post.php:1
+msgid "Status"
+msgstr "상태"
+
+#. Text in echo
+#: core/admin/setup-meta-maps.php:39
+msgid "Style"
+msgstr "스타일"
+
+#. Text in function
+#: core/admin/setup-custom-post.php:1
+msgid "Title"
+msgstr "제목"
+
+#. Text in echo
+#: core/admin/setup-meta-maps.php:35
+msgid "UI setting"
+msgstr "UI 설정"
+
+#. Text in echo
+#: includes/mapsian-general-settings.php:39
+msgid "What is Google maps API key?"
+msgstr "구글맵 API 키 란?"
+
+#. Text in echo
+#: core/admin/setup-meta-maps.php:26
+msgid "Width"
+msgstr "가로"
